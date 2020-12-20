@@ -3,7 +3,6 @@ import optparse
 import scapy.all as scapy
 from scapy.layers import http
 import time 
-from ip_checker import ipchecker
 import ftplib
 from threading import Thread
 import queue
